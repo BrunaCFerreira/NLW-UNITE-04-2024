@@ -1,7 +1,7 @@
 # NLW-UNITE-04-2024-
 Projeto feito em três aulas para estudar HTML, CSS e JavaScript 
 
-Então, este é um projeto bem legal onde basicamente temos uma tela onde as pessoas podem se inscrever. Você sabe quando você quer ir a um evento e precisa se registrar com seu nome e e-mail? É isso que as pessoas podem fazer aqui.
+Então, este é um projeto onde basicamente temos uma tela onde as pessoas podem se inscrever. Você sabe quando você quer ir a um evento e precisa se registrar com seu nome e e-mail? É isso que as pessoas podem fazer aqui.
 
 Para esse projetinho foi usado:
 
