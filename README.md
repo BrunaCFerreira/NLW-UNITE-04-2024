@@ -10,13 +10,13 @@ O CSS é para deixar tudo bonitinho, com cores, formatos legais e na posição c
 E o JavaScript que é a parte mais inteligente que faz os botões funcionarem e guarda as informações que as pessoas escrevem.
 Também usamos uma biblioteca chamada Day.js para ajudar a lidar com as datas e horas, assim, sabemos quando as pessoas se inscreveram e quando fizeram check-in de melhor maneira.
 
-Estrutura do HTML
+Estrutura do HTML:
 No HTML, a gente tem várias tags que formam a página. Tem uma parte para o cabeçalho (header), onde a gente coloca um ícone. Depois, tem um formulário onde as pessoas podem se inscrever, com espaço para nome e e-mail. Mais abaixo, tem uma seção onde a lista de participantes é mostrada.
 
-Estilização com CSS
+Estilização com CSS:
 Com o CSS, a gente deixa tudo bonitinho. Colocamos fundos, cores e formatos legais nos botões, nos campos de texto e na lista de participantes. Isso deixa o site mais atraente visualmente.
 
-Interatividade com JavaScript
+Interatividade com JavaScript:
 Ele fez os botões funcionarem e guarda as informações que as pessoas escrevem. Por exemplo, quando alguém clica no botão de se inscrever, o JavaScript pega as informações do formulário e adiciona na lista de participantes.
 
 Algumas funcionalidades importantes de serem citadas:
